@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-phones-hw",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start-dev": "nodemon "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Illiakalinin/sequelize-phones-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Illiakalinin/sequelize-phones-hw/issues"
+  },
+  "homepage": "https://github.com/Illiakalinin/sequelize-phones-hw#readme"
+}
