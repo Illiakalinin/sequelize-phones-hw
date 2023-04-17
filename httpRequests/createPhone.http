@@ -1,0 +1,12 @@
+POST http://localhost:5000/api/phones
+Content-Type: application/json
+
+{
+  "brand": "OnePlus",
+  "model": "9T",
+  "manufacturedYear": "2021-06-13",
+  "ram": 8,
+  "cpu": "Snapdragon 865",
+  "displaySize": 6.7,
+  "nfc": true
+}
